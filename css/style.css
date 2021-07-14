@@ -15,8 +15,15 @@
     align-items: center;
   }
   
+  .capa {
+    opacity: 0.7;
+  }
+
+  .legenda {
+    padding: 5%;
+}
   .background-section-one{
-    background-image: url(../assets/gatinho.jpg);
+    background-image: url(../assets/texturas.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
